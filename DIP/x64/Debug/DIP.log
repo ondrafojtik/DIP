@@ -1,19 +1,4 @@
 ﻿  DIP.cpp
-C:\dev\DIP\DIP\DIP.cpp(99,4): warning C4102: 'cv': unreferenced label
-C:\dev\DIP\DIP\DIP.cpp(127,16): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
-C:\dev\DIP\DIP\DIP.cpp(128,39): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
-          with
-          [
-              _Tp=uchar
-          ]
-C:\dev\DIP\DIP\DIP.cpp(129,44): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
-          with
-          [
-              _Tp=uchar
-          ]
-C:\dev\DIP\DIP\DIP.cpp(131,47): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
-          with
-          [
-              _Tp=uchar
-          ]
+C:\dev\DIP\DIP\DIP.cpp(111,3): warning C4102: 'cv': unreferenced label
+  LINK : C:\dev\DIP\x64\Debug\DIP.exe not found or not built by the last incremental link; performing full link
   DIP.vcxproj -> C:\dev\DIP\x64\Debug\DIP.exe
