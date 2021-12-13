@@ -1,4 +1,19 @@
 ﻿  DIP.cpp
-C:\dev\DIP\DIP\DIP.cpp(111,3): warning C4102: 'cv': unreferenced label
-  LINK : C:\dev\DIP\x64\Debug\DIP.exe not found or not built by the last incremental link; performing full link
-  DIP.vcxproj -> C:\dev\DIP\x64\Debug\DIP.exe
+C:\dev\DIP\DIP\DIP\DIP.cpp(116,3): warning C4102: 'cv': unreferenced label
+C:\dev\DIP\DIP\DIP\DIP.cpp(417,37): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\dev\DIP\DIP\DIP\DIP.cpp(418,37): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\dev\DIP\DIP\DIP\DIP.cpp(544,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\DIP\DIP\DIP\DIP.cpp(544,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\DIP\DIP\DIP\DIP.cpp(547,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\DIP\DIP\DIP\DIP.cpp(547,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\DIP\DIP\DIP\DIP.cpp(549,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\DIP\DIP\DIP\DIP.cpp(549,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DIP.vcxproj -> C:\dev\DIP\DIP\x64\Debug\DIP.exe
